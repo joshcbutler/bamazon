@@ -4,6 +4,7 @@
   "description": "A web app allowing a user to select items for purchase from an online database.",
   "main": "bamazonCustomer.js",
   "dependencies": {
+    "cli-table": "^0.3.1",
     "inquirer": "^3.0.6",
     "mysql": "^2.13.0"
   },
